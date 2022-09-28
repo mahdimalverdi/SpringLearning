@@ -1,5 +1,7 @@
 package com.example.demo;
 
+import com.example.demo.model.Book;
+import com.example.demo.service.BookService;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
