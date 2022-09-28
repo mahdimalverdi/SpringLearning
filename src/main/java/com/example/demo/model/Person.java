@@ -7,10 +7,10 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
-@Entity(name="BOOK")
+@Entity(name="PERSON")
 @Data
 @NoArgsConstructor
-public class User {
+public class Person {
 
     @Id
     @GeneratedValue
