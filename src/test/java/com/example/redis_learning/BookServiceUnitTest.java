@@ -1,5 +1,7 @@
-package com.example.demo;
+package com.example.redis_learning;
 
+import com.example.redis_learning.entity.Book;
+import com.example.redis_learning.service.BookService;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

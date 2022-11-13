@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>demo8</artifactId>
+    <artifactId>redis-learning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo8</name>
-    <description>demo8</description>
+    <name>redis-learning</name>
+    <description>redis-learning</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.6.11</version>
+            <version>1.6.12</version>
         </dependency>
         <dependency>
             <groupId>org.xerial</groupId>

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.redis_learning.config;
 
 import org.hibernate.MappingException;
 import org.hibernate.dialect.identity.IdentityColumnSupportImpl;

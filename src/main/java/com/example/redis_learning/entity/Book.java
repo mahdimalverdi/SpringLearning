@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.redis_learning.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

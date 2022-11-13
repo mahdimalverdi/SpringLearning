@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.example.redis_learning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo8ApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
